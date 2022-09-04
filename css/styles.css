@@ -325,7 +325,7 @@ img {
     display: flex;
     justify-content: center;
     gap: 10px;
-    padding-bottom: 30px;
+    margin-bottom: 30px;
 }
 
 .contacts-link {
@@ -392,6 +392,7 @@ img {
 
 .footer-section {
     display: flex;
+    align-items: baseline;
 }
 
 .footer-logo {
@@ -430,9 +431,6 @@ img {
 
 .social {
     margin-left: 70px;
-    width: 206px;
-    height: 80px;
-    
 }
 
 .social-title {
